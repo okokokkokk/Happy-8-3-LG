@@ -1,7 +1,7 @@
 const nameGirl = 'Linh Giang';
 const giftUrl = 'https://www.instagram.com/lgnaigg/';
 const eventName = 'Chúc Mừng 8-3';
-const titleCard = 'Tặng người ấy';
+const titleCard = 'Tặng Bạn ấy';
 const contentCard = 'Chúc Linh Giang 8/3 tràn ngập niềm vui và những nụ cười. Mong điều đẹp nhất sẽ đến với bạn trong hôm nay và cả những ngày sau';
 
 // phần dưới dành cho các bạn biết code, nếu muốn chỉnh ảnh đơn giản với base64
